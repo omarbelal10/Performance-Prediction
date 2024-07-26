@@ -28,7 +28,8 @@ The following datasets have been used for training
 We provide the pretrained model under the (pretrained_models) folder, However If you want to do it yourself Please do the following
 
 1- Open the following Notebook to perfrom data augmentation and training (This notebook shows an example using one dataset and you can do the same using the other datasets) 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/omarbelal10/Performance-Prediction/blob/main/Train.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/omarbelal10/Performance-Prediction/blob/main/Train_Vi-T.ipynb))
+
 
 
 
