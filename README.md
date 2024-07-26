@@ -24,7 +24,7 @@ The following datasets have been used for training
    3- ABOships 
 
 1- Open the following Notebook to perfrom data augmentation and training (This notebook shows an example using one dataset and you can do the same using the other datasets) 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/notebooks/example_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/yourusername/yourrepo/blob/main/notebooks/example_notebook.ipynb](https://github.com/omarbelal10/Performance-Prediction/blob/main/Train.ipynb))
 
 
 
