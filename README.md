@@ -18,4 +18,11 @@ The proposed model, dubbed as Maritime Object Detection Prediction Network (MODP
 
 # Training 
 
+The following datasets have been used for training 
+   1- SeaShips
+   2- Singapore maritime 
+   3- ABOships 
+
+1- Open the following Notebook to perfrom data augmentation and training (This notebook shows an example using one dataset and you can do the same using the other datasets)
+
 
