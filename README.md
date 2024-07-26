@@ -23,6 +23,8 @@ The following datasets have been used for training
    2- Singapore maritime 
    3- ABOships 
 
-1- Open the following Notebook to perfrom data augmentation and training (This notebook shows an example using one dataset and you can do the same using the other datasets)
+1- Open the following Notebook to perfrom data augmentation and training (This notebook shows an example using one dataset and you can do the same using the other datasets) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/notebooks/example_notebook.ipynb)
+
 
 
