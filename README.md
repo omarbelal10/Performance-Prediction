@@ -25,7 +25,7 @@ The following datasets have been used for training
    2. Singapore maritime 
    3. ABOships 
    
-We provide the pretrained model under the (pretrained_models) folder, However If you want to do it yourself Please do the following
+We provide the pretrained model under in the following link https://1drv.ms/f/c/5aa3f723702b9959/EvDdRXwwtwFKunyGDhA5kb4BcyeZM-A8rbj3UFmu9UfNhw?e=qsow2b, However If you want to do it yourself Please do the following
 
 - Open the following Notebook to perfrom data augmentation and training using The Vi-T model (This notebook shows an example using one dataset and you can do the same using the other datasets) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/omarbelal10/Performance-Prediction/blob/main/Vi-T_Train.ipynb)
