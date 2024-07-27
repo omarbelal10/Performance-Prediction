@@ -27,9 +27,16 @@ The following datasets have been used for training
    
 We provide the pretrained model under the (pretrained_models) folder, However If you want to do it yourself Please do the following
 
-1- Open the following Notebook to perfrom data augmentation and training (This notebook shows an example using one dataset and you can do the same using the other datasets) 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/omarbelal10/Performance-Prediction/blob/main/Train_Vi-T.ipynb))
+1. Open the following Notebook to perfrom data augmentation and training using The Vi-T model (This notebook shows an example using one dataset and you can do the same using the other datasets) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/omarbelal10/Performance-Prediction/blob/main/Vi-T_Train.ipynb)
 
+2. Open the following Notebook to perfrom testing using the pretrained Vi-T model (This notebook shows an example using one dataset and you can do the same using the other datasets) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/omarbelal10/Performance-Prediction/blob/main/Vi-T_Test.ipynb)
 
+4. Open the following Notebook to perfrom data augmentation and training using The ResNet models (This notebook shows an example using one dataset and you can do the same using the other datasets)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/omarbelal10/Performance-Prediction/blob/main/ResNet_Train.ipynb)
+
+6. Open the following Notebook to perfrom testing using The ResNet models (This notebook shows an example using one dataset and you can do the same using the other datasets) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/omarbelal10/Performance-Prediction/blob/main/ResNet_Test.ipynb)
 
 
