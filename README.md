@@ -17,7 +17,8 @@ The proposed model, dubbed as Maritime Object Detection Prediction Network (MODP
 
 # Results 
 
-![combined_new](https://github.com/user-attachments/assets/f5df8123-a46b-48a8-8ed6-c7f929f69216)
+![Spider_diagram](https://github.com/user-attachments/assets/1418c866-a99b-4251-8a49-7fd27e0b0801)
+
 
 # Training 
 The following datasets have been used for training 
